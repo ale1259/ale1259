@@ -13,8 +13,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Security Information and Event Management(SIEM) Tools:<b>
-
-  - ["Azure Sentinel" LIVE cyber attacks on a Map](https://github.com/ale1259/SIEM-Azure-Sentinel)
+  - [Azure Sentinel LIVE cyber attacks on a Map](https://github.com/ale1259/SIEM-Azure-Sentinel)
 
 
 <h2>🤳Connect with me:</h2>

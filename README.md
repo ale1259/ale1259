@@ -20,7 +20,7 @@
 
 <h2>🐍 Python Projects:</h2>
 
-- <b>Beginner friendly Python projects<b>
+- [<b>Beginner friendly Python projects<b>](https://github.com/ale1259/Python-Projects-beginners-friendly)
 
 
 <h2>🤳Connect with me:</h2>

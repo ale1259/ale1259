@@ -14,9 +14,14 @@
 
 - <b>Security Information and Event Management(SIEM) Tools:<b>
   - [Azure Sentinel LIVE cyber attacks on a Map](https://github.com/ale1259/SIEM-Azure-Sentinel)
+
+- <b>Vulnerability Management Tools:<b>
   - [Nessus Essentials-Vulnerability Management Tool](https://github.com/ale1259/Nessus-Essentials)
 
 <h2>🐍 Python Projects:</h2>
+
+- <b>Quiz Game about general knowledge(Beginners friendly):<b>
+
 
 
 

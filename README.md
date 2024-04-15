@@ -20,10 +20,7 @@
 
 <h2>🐍 Python Projects:</h2>
 
-- <b>Quiz Game about general knowledge(Beginners friendly):<b>
-
-
-
+- <b>Beginner friendly Python projects<b>
 
 
 <h2>🤳Connect with me:</h2>

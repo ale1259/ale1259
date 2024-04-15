@@ -10,11 +10,16 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ale1259/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ale1259/azure-network-protocols)
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
+<h2>🔐 CyberSecurity Projects:</h2>
 
 - <b>Security Information and Event Management(SIEM) Tools:<b>
   - [Azure Sentinel LIVE cyber attacks on a Map](https://github.com/ale1259/SIEM-Azure-Sentinel)
   - [Nessus Essentials-Vulnerability Management Tool](https://github.com/ale1259/Nessus-Essentials)
+
+<h2>🐍 Python Projects:</h2>
+
+
+
 
 <h2>🤳Connect with me:</h2>
 

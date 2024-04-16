@@ -21,7 +21,8 @@
 <h2>🐍 Python Projects:</h2>
 
 - [<b>Beginner friendly Python projects<b>]
-  - General knowledge Quiz Game(script, no images)
+
+  - [General knowledge Quiz Game(script, no images)](https://github.com/ale1259/Python-Projects-beginners-friendly/blob/main/Quiz%20Game.py)
 
 <h2>🤳Connect with me:</h2>
 

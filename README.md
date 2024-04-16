@@ -20,8 +20,8 @@
 
 <h2>🐍 Python Projects:</h2>
 
-- [<b>Beginner friendly Python projects<b>](https://github.com/ale1259/Python-Projects-beginners-friendly)
-
+- [<b>Beginner friendly Python projects<b>]
+  - General knowledge Quiz Game(script, no images)
 
 <h2>🤳Connect with me:</h2>
 

@@ -23,6 +23,7 @@
 - [<b>Beginner friendly Python projects<b>]
 
   - [General knowledge Quiz Game(script, no images)](https://github.com/ale1259/Python-Projects-beginners-friendly/blob/main/Quiz%20Game.py)
+  - [Number Guessing Game(script, no images)]
 
 <h2>🤳Connect with me:</h2>
 
